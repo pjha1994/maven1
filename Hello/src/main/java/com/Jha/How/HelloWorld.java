@@ -9,6 +9,7 @@ public class HelloWorld{
 		System.out.println(Converter(31,2));
 	}
 	private static int Converter(int num, int base){
+		
 		int s = 0;
 		int p =1;
 		while(num>0){
